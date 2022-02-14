@@ -6,12 +6,3 @@
 fd
 df
 d
-fd
-f
-df
-d
-f
-d
-cls
-cls
-ccccccccccccccccccccccclllllllllllllllssssssss
